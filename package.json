@@ -1,0 +1,16 @@
+{
+  "name": "crownstream",
+  "version": "1.0.0",
+  "description": "video streaming platform backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Aditya Madhav Singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
