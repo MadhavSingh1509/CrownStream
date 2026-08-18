@@ -27,3 +27,9 @@ console.log(`\n MONGODB connected !! DB HOST:${connectionInstance.connection.hos
     }
 }
 export default connectDB
+
+
+
+
+
+
