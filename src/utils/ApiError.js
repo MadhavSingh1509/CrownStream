@@ -1,7 +1,7 @@
 class ApriError extends Error{
     constructor(
         statusCode,
-        message:"something went wrong bro",
+        message='something went wrong:',
         error=[],
         stack=""
 
